@@ -23,5 +23,4 @@ This app allows users to create, update, mark as complete, and delete tasks. Itâ
 
 ---
 
-## Project Structure
 
